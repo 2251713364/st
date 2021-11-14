@@ -1,4 +1,4 @@
-st - simple terminal
+# st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
@@ -32,3 +32,18 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+# patch
+#### anysize 
+让st占满整个屏幕
+#### alpha
+设置透明度
+#### dracula
+st的一个颜色配置
+#### scrollback
+让终端翻页
+#### fontfix
+对于无法显示的字体，更好的显示
+#### hidecursor
+在终端打字时将光标隐藏
+#### externalpipe
+复制终端输出内容，复制url，打开url
